@@ -15,6 +15,7 @@ end
 
 gem 'test-unit'
 gem 'bootstrap-sass', '2.3.2.0'
+gem 'bcrypt-ruby'
 
 gem 'sass-rails', '4.0.5'
 gem 'uglifier', '2.1.1'
